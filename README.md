@@ -5,6 +5,7 @@
 * Figma
 * Images
 * Future improving
+* GitHub pages
 
 **Intro**
 
@@ -20,5 +21,8 @@ We exporting images directly from Figma. [Here](https://tinypng.com/) you can op
 
 **Future improving**
 I consider to add more font-sizes or font-sizes for titles, subtitles and texts because the screen size can be changed and the text must be optimized to each size.
+
+**GitHub pages**
+You can look at the project as a deployed website at the GitHub pages [here](https://arte504.github.io/web_project_3/).
 
 Have fun when you observe it!
