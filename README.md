@@ -9,7 +9,7 @@
 
 **Intro**
 
-This is a project about traveling across the US. We've made it so all the elements are displayed correctly on popular screen sizes.
+* This is a project about traveling across the US. We've made it so all the elements are displayed correctly on popular screen sizes.
 
 **Figma**
 
@@ -17,12 +17,12 @@ This is a project about traveling across the US. We've made it so all the elemen
 
 **Images**
 
-We exporting images directly from Figma. [Here](https://tinypng.com/) you can optimize your images, so your project loads faster. 
+* We exporting images directly from Figma. [Here](https://tinypng.com/) you can optimize your images, so your project loads faster. 
 
 **Future improving**
-I consider to add more font-sizes or font-sizes for titles, subtitles and texts because the screen size can be changed and the text must be optimized to each size.
+* I consider to add more font-sizes or font-sizes for titles, subtitles and texts because the screen size can be changed and the text must be optimized to each size.
 
 **GitHub pages**
-You can look at the project as a deployed website at the GitHub pages [here](https://arte504.github.io/web_project_3/).
+* You can look at the project as a deployed website at the GitHub pages [here](https://arte504.github.io/web_project_3/).
 
-Have fun when you observe it!
+*Have fun when you observe it!*
