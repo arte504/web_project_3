@@ -1,8 +1,10 @@
+/* Page normalize settings */
+@import url(../vendor/normalize.css);
+
 /* Font stylesheet */
 @import url(../fonts/inter.css);
 
 /* Global page settings */
-@import url(../vendor/normalize.css);
 @import url(../blocks/body/body.css);
 
 /* Page content */

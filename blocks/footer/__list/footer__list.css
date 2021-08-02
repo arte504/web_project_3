@@ -2,7 +2,6 @@
   margin: 0;
   padding: 0;
   list-style: none;
-  display: inline;
 }
 
 @media screen and (max-width: 510px) {
