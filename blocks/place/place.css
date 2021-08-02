@@ -32,14 +32,9 @@
   }
 }
 
-@media screen and (max-width: 420px) {
-  .place {
-    row-gap: 49px;
-  }
-}
-
 @media screen and (max-width: 320px) {
   .place {
-    max-width: 320px;
+    margin: 48px 0 48px 0;
+    row-gap: 48px;
   }
 }
