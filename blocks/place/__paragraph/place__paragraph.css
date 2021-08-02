@@ -14,12 +14,18 @@
     min-width: 484px;
     padding-bottom: 25px;
   }
+  .place__paragraph:last-of-type{
+    padding-bottom: 0;
+  }
 }
 
 @media screen and (min-width: 1024px){
   .place__paragraph {
     min-width: 456px;
     padding-bottom: 25px;
+  }
+  .place__paragraph:last-of-type{
+    padding-bottom: 0;
   }
 }
 
@@ -29,6 +35,9 @@
     font-size: 16px;
     line-height: 26px;
   }
+  .place__paragraph:last-of-type{
+    padding-bottom: 0;
+  }
 }
 
 @media screen and (min-width: 320px) {
@@ -36,5 +45,8 @@
     min-width: 288px;
     font-size: 16px;
     line-height: 26px;
+  }
+  .place__paragraph:last-of-type{
+    padding-bottom: 0;
   }
 }
