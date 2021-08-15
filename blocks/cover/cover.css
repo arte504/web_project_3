@@ -1,7 +1,7 @@
 @import url(./__subtitle/cover__subtitle.css);
 @import url(./__title/cover__title.css);
 @import url(./__link/cover__link.css);
-
+@import url(./__overlay/cover__overlay.css);
 
 .cover{
   background-image: url(../../images/cover-route-66.jpg);
@@ -19,7 +19,6 @@
   width: 100%;
   max-width: 1184px;
   box-sizing: border-box;
-
 }
 
 @media screen and (max-width: 1024px) {
